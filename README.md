@@ -1,0 +1,2 @@
+jextbox-currency-rate
+=====================
