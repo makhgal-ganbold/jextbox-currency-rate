@@ -17,6 +17,14 @@ switch($params->get('bank', 1)){
 		$params->get('language', 0) ? $language = 'en' : $language = 'mn';
 		$src = 'http://www.khanbank.com/hansh_harah.php?lang='.$language;
 		break;
+	case 2: // Голомт банк
+		$params->get('language', 0) ? $language = 'en' : $language = 'mn';
+		$src = 'http://www.golomtbank.com/'.$language.'/home/ratesForSites';
+		break;
+	case 3: // ХХБ
+		$params->get('language', 0) ? $language = 'en' : $language = 'mn';
+		$src = 'http://www.tdbm.mn/script.php?mod=rate&ln='.$language;
+		break;
 	default: // Монгол Банк
 		$params->get('language', 0) ? $language = '&currency_title=Currency&currency_rate_title=Rate&source=Source' : $language = '';
 		$src = 'http://monxansh.appspot.com/xansh.html?currency=USD|EUR|JPY|GBP|RUB|CNY|KRW'.$language;
