@@ -15,7 +15,7 @@ defined('_JEXEC') or die('Restricted access');
 switch($params->get('bank', 1)){
 	case 1: // ХААн банк
 		$params->get('language', 0) ? $language = 'en' : $language = 'mn';
-		$src = 'http://www.khanbank.com/hansh_harah.php?lang='.$language;
+		$src = 'https://www.khanbank.com/'.$language.'/home/ratesForSites';
 		break;
 	case 2: // Голомт банк
 		$params->get('language', 0) ? $language = 'en' : $language = 'mn';
