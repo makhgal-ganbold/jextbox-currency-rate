@@ -7,8 +7,8 @@
 <license>http://www.gnu.org/licenses/gpl.html</license>
 <authorEmail>contact@galaa.mn</authorEmail>
 <authorUrl>www.galaa.mn</authorUrl>
-<version>1.1.0</version>
-<description>This module displays currency rate of tugrug (Mongolian currency) and based on www.monxansh.appspot.com, www.khanbank.com/hansh_harah.php, www.golomtbank.com/mn/home/rates, www.tdbm.mn/6b8Y29uPyY%2FJj9yYXRl458. Copyright (C) 2013 Galaa (www.galaa.mn/).</description>
+<version>1.2.0</version>
+<description>This module displays currency rate of tugrug (Mongolian currency) and it was based on frames from www.monxansh.appspot.com (Mongol Bank) and Khan Bank, Golomt Bank, Trade and Develoment Bank. Copyright (C) 2013 Galaa (http://galaa.mn/).</description>
 <files>
 	<filename >mod_jextboxcurrencyrate.php</filename>
 	<folder module="mod_jextboxcurrencyrate">tmpl</folder>
