@@ -20,17 +20,17 @@
 <config>
 	<fields name="params">
 		<fieldset name="basic">
-			<field name="bank" type="list" default="0" label="BANK_LABEL" description="BANK_DESC" >
+			<field name="bank" type="list" default="0" label="BANK_LABEL" description="BANK_DESC" filter="uint" >
 				<option value="0">BANK_OPTION_MONGOL_BANK</option>
 				<option value="1">BANK_OPTION_KHAN</option>
 				<option value="2">BANK_OPTION_GOLOMT</option>
 				<option value="3">BANK_OPTION_TDBM</option>
 			</field>
-			<field name="language" type="list" default="0" label="LANGUAGE_LABEL" description="LANGUAGE_DESC" >
+			<field name="language" type="list" default="0" label="LANGUAGE_LABEL" description="LANGUAGE_DESC" filter="uint" >
 				<option value="0">LANGUAGE_OPTION_MONGOLIAN</option>
 				<option value="1">LANGUAGE_OPTION_ENGLISH</option>
 			</field>
-			<field name="style" type="text" default="width:100%;height:200px;border:none;overflow:hidden;margin:0;" size="30" label="STYLE_LABEL" description="STYLE_DESC" />
+			<field name="css_style" type="text" default="width:100%;height:200px;border:none;overflow:hidden;margin:0;" size="30" label="STYLE_LABEL" description="STYLE_DESC" filter="raw" />
 		</fieldset>
 		<fieldset name="advanced">
 			<field name="layout" type="modulelayout" label="JFIELD_ALT_LAYOUT_LABEL" description="JFIELD_ALT_MODULE_LAYOUT_DESC" />

@@ -35,7 +35,7 @@ switch($params->get('bank', 1)){
 
 <div class="jextboxcurrencyrate<?php echo $moduleclass_sfx; ?>">
 	<iframe
-		style="<?php echo $params->get('style', 'width:100%;height:200px;border:none;overflow:hidden;margin:0;'); ?>" 
+		style="<?php echo $params->get('css_style', 'width:100%;height:200px;border:none;overflow:hidden;margin:0;'); ?>" 
 		src="<?php echo $src; ?>">
     </iframe>
 </div>

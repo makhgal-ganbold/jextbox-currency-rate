@@ -7,6 +7,7 @@ Changelog
 *12 June 2014*
 
 1. Source from Khan Bank has been changed.
+2. Parameter name was changed for Joomla 3.
 
 1.1.0.
 --
