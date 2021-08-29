@@ -3,13 +3,14 @@ JExtBOX Currency Rate
 
 Joomla! Extension
 
-Author [Galaa](https://galaa.mn/ "Galaa's Personal Page") Publisher [JExtBOX](http://jextbox.com/ "JExtBOX - BOX of Joomla Extensions").
+* Author [Galaa](https://galaa.mn/)
+* Publisher [JExtBOX](https://jextbox.com/ "JExtBOX - BOX of Joomla Extensions")
 
 **Description**
 
-This is a module for Joomla CMS and the module displays currency rate of tugrug (Mongolian currency).
+This module displays currency rate of Mongolian currency tugrug and it is based on frames from www.monxansh.appspot.com (Mongol Bank) and Khan Bank, Trade and Develoment Bank.
 
 **More information**
 
 * [Page on The Joomla Extensions Directory](http://extensions.joomla.org/extensions/extension/financial/currency-a-exchange/jextbox-currency-rate)
-* [Page on JExtBOX](http://jextbox.com/jextbox-currency-rate.html)
+* [Page on JExtBOX](https://jextbox.com/extension/168)

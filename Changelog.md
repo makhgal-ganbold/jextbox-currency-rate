@@ -1,6 +1,14 @@
 Changelog
 ==
 
+1.2.1.
+
+*29 Aug 2021*
+
+1. Golomt bank has been removed.
+2. The method HTTP is removed from the source urls due to SSL compatibility.
+3. The language file has been changed.
+
 1.2.0.
 --
 

@@ -1,13 +1,13 @@
 <?php
 
-/*------------------------------------------------------------------------
-# JExtBOX Currency Rate
-# ------------------------------------------------------------------------
-# author    Galaa
-# copyright Copyright (C) 2013 Galaa. All Rights Reserved.
-# @license - http://www.gnu.org/licenses/gpl.html
-# Websites: http://galaa.mn
--------------------------------------------------------------------------*/
+/**
+* @package       JExtBOX Currency Rate
+* @author        Galaa
+* @publisher     JExtBOX - BOX of Joomla Extensions (www.jextbox.com)
+* @authorUrl     www.galaa.mn
+* @copyright     copyright (C) 2013 Galaa
+* @license       This extension in released under the GNU/GPL License - http://www.gnu.org/copyleft/gpl.html
+*/
 
 // no direct access
 defined( "_JEXEC" ) or die( "Restricted access" );
