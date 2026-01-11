@@ -1,6 +1,14 @@
 Changelog
 ==
 
+*11 Jan 2026*
+
+2.0.0.
+
+1. Migration to Joomla 5 and Joomla 6
+2. Removed Khan bank
+3. Removed Trade and Development bank
+
 1.2.1.
 
 *29 Aug 2021*
